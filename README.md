@@ -12,6 +12,15 @@ The project focuses on cleaning and transforming the raw data into an analysis-r
 
 ---
 
+## Data Source
+
+The raw dataset used in this analysis was obtained from Kaggle:
+
+**Ask A Manager Salary Survey 2021**  
+Source: Kaggle
+
+---
+
 ## 🎯 Business Questions
 
 The analysis explores the following questions:
